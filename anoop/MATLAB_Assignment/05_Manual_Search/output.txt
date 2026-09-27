@@ -1,0 +1,9 @@
+﻿=== Search Report ===
+Array: 18 7 33 12 33 25 33 6 7
+
+Target value  : 33
+First found at: position 3
+Total count   : 3
+
+Target value  : 48
+Result        : 48 is not present in the array.

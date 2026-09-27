@@ -1,0 +1,16 @@
+﻿=== Matrix File Analysis ===
+Matrix (4x4) from matrix.txt:
+    22    -9    31    14
+    11    27    -8    20
+   -16    15    24    33
+    17     6    19   -12
+
+Maximum: 33 at Row 3, Col 4
+Minimum: -16 at Row 3, Col 1
+
+Row 1 sum: 58
+Row 2 sum: 50
+Row 3 sum: 56
+Row 4 sum: 30
+
+Highest sum: Row 1 (sum = 58)

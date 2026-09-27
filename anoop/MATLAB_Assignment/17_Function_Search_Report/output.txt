@@ -1,0 +1,7 @@
+﻿=== Search Report ===
+Array: 21 12 35 17 12 31 25 12 42 16 12 37
+
+Target   First Pos    Count    Status
+12       2            4        Found
+31       6            1        Found
+60       -1           0        Not found

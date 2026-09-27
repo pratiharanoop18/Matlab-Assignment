@@ -1,0 +1,9 @@
+﻿=== Marks Analysis Report ===
+All marks      : 76 58 -9 52 85 107 43 29 97 103 51
+Valid marks    : 76 58 52 85 43 29 97 51
+Dropped        : -9 107 103
+Valid count    : 8
+Average        : 61.38
+Highest mark   : 97
+Passed (>=40)  : 7
+Failed         : 1

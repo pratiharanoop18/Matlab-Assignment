@@ -1,0 +1,10 @@
+﻿=== Selective Statistics (positive only) ===
+
+Dataset 1: 11 -5 0 18 -7 14 0 9 -12 6
+Positive count : 5
+Sum of positive: 58
+Average        : 11.60
+
+Dataset 2: -6 0 -14 -5 0
+Positive count : 0
+No positive values exist. Cannot compute sum or average.

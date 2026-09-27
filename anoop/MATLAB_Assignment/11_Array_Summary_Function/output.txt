@@ -1,0 +1,19 @@
+﻿=== Array Summary Report ===
+
+Positive values: 29 14 42 21 6
+  Total   = 112
+  Average = 22.40
+  Min     = 6
+  Max     = 42
+
+All-negative: -11 -18 -7 -25 -16
+  Total   = -77
+  Average = -15.40
+  Min     = -25
+  Max     = -7
+
+Mixed array: 9 -5 0 18 -8 11
+  Total   = 25
+  Average = 4.17
+  Min     = -8
+  Max     = 18

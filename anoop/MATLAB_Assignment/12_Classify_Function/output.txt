@@ -1,0 +1,11 @@
+﻿=== Classification Comparison ===
+Set A: 11 -18 0 23 -7 14 31 0
+Set B: -24 12 -6 0 13 -27 19 4.3
+
+Category     Set A   Set B   Note
+==========================================
+Positive          4       4   Equal
+Negative          2       3   B higher
+Zero              2       1   A higher
+Even              4       4   Equal
+Odd               4       3   A higher

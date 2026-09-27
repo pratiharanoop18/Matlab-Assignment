@@ -1,0 +1,11 @@
+﻿=== Student Result Analyzer ===
+Input marks    : 78 42 -5 89 53 112 67 29 96 -11 45 83
+Valid marks    : 78 42 89 53 67 29 96 45 83
+Rejected marks : -5 112 -11
+Pass threshold : >= 40
+Total          : 582
+Average        : 64.67
+Highest        : 96
+Lowest         : 29
+Passed         : 8
+Failed         : 1

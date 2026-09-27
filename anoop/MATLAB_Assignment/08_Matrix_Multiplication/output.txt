@@ -1,0 +1,10 @@
+﻿=== Matrix Multiplication ===
+
+Case 1: A(2x3) x B(3x2)
+Product (2x2):
+    67    35
+   -21    57
+Matches MATLAB A*B: YES
+
+Case 2: A(2x3) x B(2x2)
+Incompatible: A columns (3) != B rows (2).

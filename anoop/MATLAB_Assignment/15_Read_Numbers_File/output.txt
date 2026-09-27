@@ -1,0 +1,10 @@
+﻿=== Number File Analysis ===
+Values read    : 28 -17 0 22 -11 14 0 37 -9 19 -24 8 12 0 -16
+Total count    : 15
+Positive (7)   : 28 22 14 37 19 8 12
+Negative (5)   : -17 -11 -9 -24 -16
+Zeros          : 3
+Sum            : 63
+Average        : 4.20
+Minimum        : -24
+Maximum        : 37

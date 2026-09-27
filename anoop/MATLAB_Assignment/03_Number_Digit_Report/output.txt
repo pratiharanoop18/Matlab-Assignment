@@ -1,0 +1,8 @@
+﻿=== Digit Analysis ===
+Number         : 83924
+Digit count    : 5
+Sum of digits  : 26
+Even digits    : 3
+Odd digits     : 2
+Reversed       : 42938
+Palindrome     : No

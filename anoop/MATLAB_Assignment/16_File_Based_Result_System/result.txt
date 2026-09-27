@@ -1,0 +1,13 @@
+﻿=== Student Result Report ===
+Pass rule: every subject must be >= 40
+
+Roll      S1    S2    S3    S4   Total      Avg  Status
+========================================================
+401       68    77    54    91     290    72.50  Pass
+402       51    35    72    58     216    54.00  Fail
+403       89    92    81    86     348    87.00  Pass
+404       43    52    37    61     193    48.25  Fail
+405       67    61    78    49     255    63.75  Pass
+406       82    69    55    73     279    69.75  Pass
+
+Students: 6   Passed: 4   Failed: 2
